@@ -18,4 +18,9 @@ Clone the Repository: git clone https://github.com/Pravalka/Aircraft-Predictive-
 
 ## Results
 Includes key performance metrics and visualizations.
+## Contributing
+If you'd like to contribute, please fork the repository and submit a pull request with your proposed changes.
+## Contact
+For questions or feedback, please contact pravalika.yenimireddy@gmail.com
+
 
