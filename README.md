@@ -1,7 +1,7 @@
 # Aircraft-Predictive-Maintenance
 
 ## Overview: 
-Predicts aircraft engine failures within specific cycles using historical sensor data. Utilizes RNN architectures, including LSTM and Bi-Directional RNN, for proactive maintenance.
+This project predicts aircraft engine failures within specific cycles using historical sensor data. Utilizes RNN architectures, including LSTM and Bi-Directional RNN, for proactive maintenance.
 
 ## Key Features:
 ### Data Preprocessing:
